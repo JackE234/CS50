@@ -1,0 +1,1 @@
+par = int(input("give a number"))
